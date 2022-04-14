@@ -1,0 +1,34 @@
+html {
+  font-family: 'Send Flowers', cursive;
+  font-size: 30px;
+  text-shadow: 4px 4px 4px rgb(2, 4, 151);
+  background-color:rgb(7, 224, 224)
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: auto;
+  padding: 0 20px;
+  color: rgb(7, 4, 139);
+  text-shadow: 3px 3px 10px rgb(185, 4, 131);
+}
+
+p, li {
+  font-size: 30px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(6, 160, 88);
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
